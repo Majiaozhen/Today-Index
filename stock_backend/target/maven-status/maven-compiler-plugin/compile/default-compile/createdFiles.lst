@@ -10,10 +10,12 @@ com\itheima\stock\mapper\StockBlockRtInfoMapper.class
 com\itheima\stock\mapper\SysRoleMapper.class
 com\itheima\stock\pojo\StockMarketIndexInfo.class
 com\itheima\stock\pojo\SysPermission.class
+com\itheima\stock\StockApp.class
 com\itheima\stock\pojo\StockBusiness.class
 com\itheima\stock\pojo\SysUser.class
 com\itheima\stock\mapper\StockBusinessMapper.class
 com\itheima\stock\mapper\StockMarketLogPriceMapper.class
+com\itheima\stock\controller\UserController.class
 com\itheima\stock\mapper\SysUserMapper.class
 com\itheima\stock\pojo\SysRolePermission.class
 com\itheima\stock\mapper\SysLogMapper.class
